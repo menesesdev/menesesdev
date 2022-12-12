@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4961&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa0e48&height=120&section=header"/>
 
 <div>
   <a href="https://github.com/menesesdev">
